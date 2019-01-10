@@ -1811,11 +1811,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fusionshen\\Desktop\\主数据微软三大套件解决方案\\Samples\\FusionshenWpfApp\\FusionshenWpfApp.csproj",
+      "projectUniqueName": "C:\\Users\\Fusionshen\\Desktop\\主数据微软三大套件解决方案\\DotNetCore3-Preview-WPF-VSCode-Samples\\FusionshenWpfApp\\FusionshenWpfApp.csproj",
       "projectName": "FusionshenWpfApp",
-      "projectPath": "C:\\Users\\Fusionshen\\Desktop\\主数据微软三大套件解决方案\\Samples\\FusionshenWpfApp\\FusionshenWpfApp.csproj",
+      "projectPath": "C:\\Users\\Fusionshen\\Desktop\\主数据微软三大套件解决方案\\DotNetCore3-Preview-WPF-VSCode-Samples\\FusionshenWpfApp\\FusionshenWpfApp.csproj",
       "packagesPath": "C:\\Users\\Fusionshen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fusionshen\\Desktop\\主数据微软三大套件解决方案\\Samples\\FusionshenWpfApp\\obj\\",
+      "outputPath": "C:\\Users\\Fusionshen\\Desktop\\主数据微软三大套件解决方案\\DotNetCore3-Preview-WPF-VSCode-Samples\\FusionshenWpfApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
